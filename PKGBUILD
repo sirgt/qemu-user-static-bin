@@ -5,7 +5,7 @@
 # Contributor: David Herrmann <dh.herrmann at gmail dot com>
 
 _pkgname=qemu-user-static
-_pkgver="7.0"
+_pkgver="7.2"
 _pkgadditver="+dfsg-7+b1"
 pkgname=${_pkgname}-bin
 pkgver=${_pkgver//\~/}

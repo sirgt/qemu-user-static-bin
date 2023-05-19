@@ -6,7 +6,7 @@
 
 _pkgname=qemu-user-static
 _pkgver="7.2"
-_pkgadditver="+dfsg-7+b1"
+_pkgadditver="+dfsg-7"
 pkgname=${_pkgname}-bin
 pkgver=${_pkgver//\~/}
 pkgrel=6
